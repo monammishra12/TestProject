@@ -1,0 +1,7 @@
+customer_id,create_date,email,first_name,last_name,password,phone_number,update_date
+51,2021-06-07 11:13,mona@gmail.com,Mona,Mishra,monam,8840441833,
+53,2021-06-07 11:13,mona@gmail.com,Mona,Mishra,monam,8840441833,
+55,2021-06-07 11:13,mona@gmail.com,Mona,Mishra,monam,7896543234,
+57,2021-06-07 11:13,abc@gmail.com,Shreya,Mishra,Good,9865434523,
+59,2021-06-07 11:13,abc@gmail.com,Shreya,,Good,9865434523,
+60,,xyz@gmail.com,first_name,last_name,Pass12,8334679823,
